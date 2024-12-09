@@ -25,7 +25,6 @@ This repository contains the implementation of the **Fuzzy Bee-Eater Hunting Alg
 - [Results](#results)
   - [Clustering Results](#clustering-results)
   - [Regression Results](#regression-results)
-- [Citations](#citations)
 
 ---
 
